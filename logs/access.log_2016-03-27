@@ -1,0 +1,94 @@
+[2016-03-27 19:17:16.538] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:17:19.104] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:17:19.123] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:17:19.125] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:17:19.182] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2016-03-27 19:17:19.195] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:17:20.208] [ERROR] normal - connect to mongodb://127.0.0.1:27017/crab error: connect ECONNREFUSED
+[2016-03-27 19:24:06.450] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:24:08.383] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:24:08.392] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:24:08.394] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:24:08.461] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2016-03-27 19:24:08.467] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:24:08.487] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:29:25.440] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:29:25.442] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2016-03-27 19:29:25.842] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:29:25.845] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:29:25.846] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:29:25.854] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:29:25.874] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:30:17.392] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:30:17.393] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2016-03-27 19:30:17.779] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:30:17.783] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:30:17.784] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:30:17.792] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:30:17.813] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:31:19.518] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:31:19.915] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:31:19.918] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:31:19.919] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:31:19.927] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:31:19.951] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:34:41.390] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:34:41.772] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:34:41.775] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:34:41.777] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:34:41.784] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:34:41.812] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:36:13.508] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:36:13.943] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:36:13.947] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:36:13.949] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:36:13.959] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:36:13.988] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:36:56.416] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:36:56.837] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:36:56.841] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:36:56.843] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:36:56.850] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:36:56.872] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:39:21.439] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:39:21.853] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:39:21.857] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:39:21.858] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:39:21.865] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:39:21.887] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:40:02.128] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:40:02.519] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:40:02.523] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:40:02.524] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:40:02.532] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:40:02.561] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:40:17.591] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:40:18.026] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:40:18.029] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:40:18.030] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:40:18.041] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:40:18.063] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:40:45.314] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:40:45.714] [INFO] normal - bsj_code 实例化成功！
+[2016-03-27 19:40:45.718] [INFO] normal - bsj_company 实例化成功！
+[2016-03-27 19:40:45.719] [INFO] normal - bsj_user 实例化成功！
+[2016-03-27 19:40:45.726] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:40:45.753] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:51:49.456] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:51:49.885] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:51:49.914] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:53:13.490] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:53:13.906] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:53:13.928] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:53:52.304] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:53:52.705] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:53:52.723] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:55:00.205] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:55:00.627] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:55:00.645] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:55:23.453] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:55:23.845] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:55:23.865] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2016-03-27 19:59:45.893] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-27 19:59:46.320] [INFO] normal - 服务启动成功,端口:89
+[2016-03-27 19:59:46.340] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.

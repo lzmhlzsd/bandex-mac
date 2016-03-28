@@ -1,0 +1,27 @@
+[2015-12-03 09:00:18.790] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-12-03 09:00:19.630] [INFO] normal - bsj_code 实例化成功！
+[2015-12-03 09:00:19.632] [INFO] normal - bsj_company 实例化成功！
+[2015-12-03 09:00:19.634] [INFO] normal - bsj_user 实例化成功！
+[2015-12-03 09:00:19.649] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-12-03 09:00:19.667] [INFO] normal - 服务启动成功,端口:89
+[2015-12-03 09:00:19.681] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2015-12-03 12:56:16.205] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-12-03 12:56:23.190] [INFO] normal - bsj_code 实例化成功！
+[2015-12-03 12:56:23.229] [INFO] normal - bsj_company 实例化成功！
+[2015-12-03 12:56:23.272] [INFO] normal - bsj_user 实例化成功！
+[2015-12-03 12:56:23.482] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-12-03 12:56:23.493] [INFO] normal - 服务启动成功,端口:89
+[2015-12-03 12:56:23.513] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.
+[2015-12-03 14:12:28.016] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-12-03 14:12:28.554] [INFO] normal - bsj_code 实例化成功！
+[2015-12-03 14:12:28.557] [INFO] normal - bsj_company 实例化成功！
+[2015-12-03 14:12:28.560] [INFO] normal - bsj_user 实例化成功！
+[2015-12-03 14:12:28.578] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-12-03 14:12:28.588] [INFO] normal - 服务启动成功,端口:89
+[2015-12-03 14:12:41.292] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-12-03 14:12:41.831] [INFO] normal - bsj_code 实例化成功！
+[2015-12-03 14:12:41.835] [INFO] normal - bsj_company 实例化成功！
+[2015-12-03 14:12:41.837] [INFO] normal - bsj_user 实例化成功！
+[2015-12-03 14:12:41.856] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-12-03 14:12:41.868] [INFO] normal - 服务启动成功,端口:89
+[2015-12-03 14:12:41.889] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.

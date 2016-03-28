@@ -1,0 +1,101 @@
+[2015-11-24 13:12:07.861] [INFO] normal - Express server listening on port 89
+[2015-11-24 13:17:48.971] [INFO] normal - Express server listening on port 89
+[2015-11-24 13:19:00.375] [INFO] normal - 服务启动，端口： 89
+[2015-11-24 13:20:00.176] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 13:20:00.178] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 13:20:00.239] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 13:38:47.506] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 13:38:47.509] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 13:38:47.576] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 13:45:50.759] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 13:45:50.762] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 13:45:50.823] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 13:48:04.128] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 13:48:04.132] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 13:48:04.194] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 13:48:19.773] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 13:48:19.774] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 13:48:19.990] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 14:44:53.744] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 14:44:53.746] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 14:44:54.000] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 16:12:55.940] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:12:55.943] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:12:56.490] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 16:31:47.488] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:31:47.493] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:31:48.047] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 16:32:27.595] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:32:27.597] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:32:52.551] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 16:34:46.611] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:34:46.614] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:34:47.230] [INFO] normal - 服务启动成功，端口： 89
+[2015-11-24 16:38:06.089] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:38:06.093] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:38:06.629] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:39:04.874] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:39:04.878] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:39:05.434] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:40:10.138] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:40:10.142] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:40:10.703] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:40:36.331] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:40:36.334] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:40:36.903] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:41:24.092] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:41:24.097] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:41:24.645] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:43:00.228] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:43:00.232] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:43:00.782] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:43:15.568] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:43:15.572] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:43:16.118] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:44:03.120] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:44:03.123] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:44:03.697] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:44:53.862] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:44:53.866] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:44:54.412] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:45:08.852] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:45:08.856] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:45:09.405] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:46:04.004] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:46:04.009] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:46:04.623] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:46:27.131] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:46:27.135] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:46:27.698] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:49:54.872] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:49:54.876] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:49:55.417] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:50:11.484] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:50:11.487] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:50:12.097] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:51:07.697] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:51:07.701] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:51:08.246] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:52:47.461] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:52:47.469] [INFO] normal - 服务启动成功,端口:89
+[2015-11-24 16:53:12.989] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-24 16:53:13.478] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-24 16:53:13.483] [INFO] normal - 服务启动成功,端口:89
+[2015-11-25 09:00:54.079] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-25 09:00:54.645] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-25 09:00:54.651] [INFO] normal - 服务启动成功,端口:89
+[2015-11-25 10:05:55.343] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-25 10:05:55.820] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-25 10:05:55.825] [INFO] normal - 服务启动成功,端口:89
+[2015-11-25 10:20:51.645] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-25 10:20:52.138] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-25 10:20:52.143] [INFO] normal - 服务启动成功,端口:89
+[2015-11-25 10:21:37.058] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-25 10:21:37.564] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-25 10:21:37.570] [INFO] normal - 服务启动成功,端口:89
+[2015-11-25 11:05:08.931] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-25 11:05:09.434] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-25 11:05:09.439] [INFO] normal - 服务启动成功,端口:89
+[2015-11-25 13:30:07.005] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-11-25 13:30:07.541] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-11-25 13:30:07.547] [INFO] normal - 服务启动成功,端口:89

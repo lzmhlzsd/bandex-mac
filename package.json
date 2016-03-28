@@ -1,0 +1,26 @@
+{
+  "name": "CrabCenter.NodeWeb",
+  "version": "5.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "ejs": "^2.3.4",
+    "excel": "^0.1.4",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "log4js": "^0.6.28",
+    "moment": "^2.10.6",
+    "mongoose": "^4.2.8",
+    "node-xlsx": "^0.6.0",
+    "redis": "^2.6.0-0",
+    "request": "^2.67.0",
+    "visualcaptcha": "^0.1.1"
+  }
+}

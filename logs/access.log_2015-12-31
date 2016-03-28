@@ -1,0 +1,14 @@
+[2015-12-31 21:59:42.276] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-12-31 21:59:54.302] [INFO] normal - bsj_code 实例化成功！
+[2015-12-31 21:59:54.316] [INFO] normal - bsj_company 实例化成功！
+[2015-12-31 21:59:54.330] [INFO] normal - bsj_user 实例化成功！
+[2015-12-31 21:59:54.409] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-12-31 21:59:54.416] [INFO] normal - 服务启动成功,端口:89
+[2015-12-31 21:59:55.416] [ERROR] normal - connect to mongodb://127.0.0.1:27017/crab error: connect ECONNREFUSED
+[2015-12-31 22:02:04.482] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2015-12-31 22:02:05.529] [INFO] normal - bsj_code 实例化成功！
+[2015-12-31 22:02:05.533] [INFO] normal - bsj_company 实例化成功！
+[2015-12-31 22:02:05.535] [INFO] normal - bsj_user 实例化成功！
+[2015-12-31 22:02:05.558] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2015-12-31 22:02:05.565] [INFO] normal - 服务启动成功,端口:89
+[2015-12-31 22:02:05.589] [INFO] normal - mongodb://127.0.0.1:27017/crab has been connected.

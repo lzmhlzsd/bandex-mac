@@ -1,0 +1,6 @@
+[2016-03-19 22:04:46.634] [INFO] normal - 模块--crabCenter.Common 加载成功！
+[2016-03-19 22:04:48.485] [INFO] normal - bsj_code 实例化成功！
+[2016-03-19 22:04:48.498] [INFO] normal - bsj_company 实例化成功！
+[2016-03-19 22:04:48.500] [INFO] normal - bsj_user 实例化成功！
+[2016-03-19 22:04:48.554] [INFO] normal - 模块--crabCenter.Login 加载成功！
+[2016-03-19 22:04:48.561] [INFO] normal - 服务启动成功,端口:89

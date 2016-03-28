@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="/common/libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- build:css /css/technode.css -->
+    <link href="/common/css/global.css" rel="stylesheet">
+    <link href="/login/css/login.css" rel="stylesheet">
+    <!-- endbuild -->
+</head>
+<body>
+<div class="container" ng-app="registerApp" ng-controller="registerCtrl">
+    <div class="container-body">
+        <h4>欢迎注册Bandex云平台服务</h4>
+        <form name="register-form" novalidate>
+            <div class="form-group">
+                <input type="text" class="form-control" ng-model="user_name" placeholder="用户名">
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control"ng-model="user_pwd" placeholder="登录密码">
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" ng-model="user_pwd2" placeholder="确认登录密码">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" ng-model="org_name" placeholder="公司名称">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" ng-model="user_email" placeholder="个人邮箱">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" ng-model="user_phone" placeholder="手机号码">
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="text" class="form-control" ng-model="validate_code" placeholder="验证码">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" ng-class="{'disabled':disabled}" ng-disabled="disabled" type="button" ng-click="getCode()">{{btntitle}}</button>
+                    </span>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-success btn-block" ng-click="register(loginForm.$valid)">注册</button>
+        </form>
+    </div>
+</div>
+
+<script src="/common/libs/angular.js/angular.min.js"></script>
+
+<!-- build:js /js/technode.js -->
+<script src="/login/controller/registerCtrl.js"></script>
+<!-- endbuild -->
+</body>
+</html>
+

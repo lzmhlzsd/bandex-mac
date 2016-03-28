@@ -1,0 +1,35 @@
+{
+  "name": "visualcaptcha.angular",
+  "version": "0.0.7",
+  "homepage": "http://visualcaptcha.net",
+  "authors": [
+    "emotionLoop <hello@emotionloop.com>"
+  ],
+  "main": "visualcaptcha.angular.js",
+  "keywords": [
+    "captcha",
+    "visualcaptcha",
+    "security",
+    "javascript",
+    "library",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.7",
+    "commit": "c9dd6de0e9ac232c53099dd21bb42874a71cce9c"
+  },
+  "_source": "git://github.com/emotionLoop/visualCaptcha-frontend-angular.git",
+  "_target": "~0.0.7",
+  "_originalSource": "visualcaptcha.angular",
+  "_direct": true
+}

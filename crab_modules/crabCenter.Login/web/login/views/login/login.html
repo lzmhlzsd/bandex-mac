@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="/common/libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/common/libs/visualcaptcha.angular/visualcaptcha.css" rel="stylesheet">
+
+
+    <!-- build:css /css/technode.css -->
+    <link href="/common/css/global.css" rel="stylesheet">
+    <link href="/login/css/login.css" rel="stylesheet">
+    <!-- endbuild -->
+</head>
+<body>
+<div class="container" ng-app="loginApp" ng-controller="loginCtrl">
+    <div class="container-body">
+        <h4>欢迎登录</h4>
+        <form name="register-form" novalidate>
+            <div class="form-group">
+                <input type="text" class="form-control" ng-model="MOBILE" placeholder="手机号">
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control"ng-model="PWD" placeholder="登录密码">
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <div captcha options="captchaOptions" id="sample-captcha"></div>
+                    <input type="text" class="form-control" ng-model="CODE" placeholder="验证码">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" ng-class="{'disabled':disabled}" ng-disabled="disabled" type="button" ng-click="getCode()">{{btntitle}}</button>
+                    </span>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-success btn-block" ng-click="register(loginForm.$valid)">登录</button>
+        </form>
+    </div>
+</div>
+
+<script src="/common/libs/jquery/dist/jquery.min.js"></script>
+<script src="/common/libs/angular.js/angular.min.js"></script>
+<script src="/common/libs/visualcaptcha.angular/visualcaptcha.angular.src.js"></script>
+
+<!-- build:js /js/technode.js -->
+<script src="/login/controller/loginCtrl.js"></script>
+<!-- endbuild -->
+</body>
+</html>
+
