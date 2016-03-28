@@ -3,6 +3,9 @@
  */
 var sysCtrl = require('../controller/sysCtrl');
 
-module.exports = function(app){
-    app.get('/index',sysCtrl.index);
+module.exports = function (app) {
+    app.get('/', sysCtrl.redirect);
+    app.get('/index', sysCtrl.index);
+
+    app.get('/log', sysCtrl.log);
 };
