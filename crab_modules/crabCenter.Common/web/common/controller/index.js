@@ -9,14 +9,12 @@ angular.module('appIndex', [])
             "task_rule":"*/5 * * * *",
             "task_raddress":"http://192.168.0.95:8086/getStatusAlarm",
             "task_params":"无",
-            "task_name":"状态报警",
             "task_model": 1,
-            "task_name":[],
-            "task_name":"状态报警",
-            "task_name":"状态报警",
-            "task_name":"状态报警"
+            "task_use":true
         }];
         $scope.addTask = function(){
             $scope.flag = true;
+
+
         }
     }]);

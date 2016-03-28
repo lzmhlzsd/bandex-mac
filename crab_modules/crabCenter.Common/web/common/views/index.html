@@ -10,10 +10,10 @@
         </thead>
         <tbody>
             <tr ng-repeat="item in tasks">
-                <td>1</td><td>2</td>
-                <td>3</td><td>4</td>
-                <td>5</td><td>6</td><td></td>
-                <td>7</td><td><button class="btn btn-sm btn-danger btn-group">删除</button><button class="btn btn-sm btn-success btn-group">测试</button></td>
+                <td>{{item.task_name}}</td><td>{{item.task_rule}}</td>
+                <td>{{item.task_raddress}}</td><td>{{item.task_params}}</td>
+                <td>{{item.task_model}}</td><td><a href="#">明细</a></td><td>{{item.task_use}}</td>
+                <td><button class="btn btn-sm btn-danger btn-group">删除</button><button class="btn btn-sm btn-success btn-group">测试</button></td>
             </tr>
             <tr ng-show="flag">
                 <td><input type="text" ng-model="t_task_name"/></td>
@@ -22,7 +22,7 @@
                 <td><input type="text" ng-model="t_task_params"/></td>
                 <td><input type="text" ng-model="t_task_model"/></td>
                 <td><input type="text" ng-model="t_task_detail"/></td>
-                <td><input type="text" ng-model="t_task_is_use"/></td>
+                <td><input type="text" ng-model="t_task_use"/></td>
                 <td><button class="btn btn-sm btn-success btn-group">保存</button></td>
             </tr>
         </tbody>

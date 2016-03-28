@@ -1,13 +1,17 @@
 /**
  * Created by lkj on 2016/3/27.
  */
-var sysCtrl = require('../controller/sysCtrl');
+var indexCtrl = require('../controller/indexCtrl');
+var configCtrl = require('../controller/configCtrl');
 
 module.exports = function (app) {
-    app.get('/', sysCtrl.redirect);
-    app.get('/index', sysCtrl.index);
+    app.get('/', indexCtrl.redirect);
+    app.get('/index', indexCtrl.index);
 
-    app.get('/log', sysCtrl.log);
-    app.get('/config', sysCtrl.config);
-    app.get('/mem', sysCtrl.mem);
+    app.get('/log', indexCtrl.log);
+
+    app.get('/config', configCtrl.config);
+    app.post('/saveConfig',configCtrl.saveConfig);
+
+    app.get('/mem', indexCtrl.mem);
 };

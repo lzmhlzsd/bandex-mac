@@ -1,7 +1,10 @@
 <% include ../../../web/common/views/header.html %>
 
-<div class="container-body container">
-    邮件 短信 微信
+<div class="container-body container" ng-app="appConfig" ng-controller="configCtrl">
+    <div>
+        <input type="text"/>
+    </div>
+    <button ng-click="save()">保存</button>
 </div>
 
 <% include ../../../web/common/views/footer.html %>
