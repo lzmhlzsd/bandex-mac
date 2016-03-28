@@ -18,3 +18,11 @@ exports.log = function (req, res) {
     res.render(path.normalize(__dirname + '../../../../web/common/views/log.html'), {title: '首页'});
 };
 
+exports.mem = function(req,res){
+    res.render(path.normalize(__dirname + '../../../../web/common/views/mem.html'), {title: '管理'});
+};
+
+exports.config = function(req,res){
+    res.render(path.normalize(__dirname + '../../../../web/common/views/config.html'), {title: '设置'});
+};
+

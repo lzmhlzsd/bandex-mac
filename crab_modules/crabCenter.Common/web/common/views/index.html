@@ -1,19 +1,29 @@
 <% include ../../../web/common/views/header.html %>
 
-<div class="container-body container">
+<div class="container-body container" ng-app="appIndex" ng-controller="indexCtrl">
     <div class="row form-search">
-        <div><button class="btn btn-success">添加任务</button></div>
+        <div><button class="btn btn-success" ng-click="addTask()">添加任务</button></div>
     </div>
     <table class="table">
         <thead>
             <tr><th>任务名称</th><th>任务规则</th><th>请求地址</th><th>请求参数</th><th>通知方式</th><th>通知明细</th><th>任务启用</th><th>操作</th></tr>
         </thead>
         <tbody>
-            <tr>
+            <tr ng-repeat="item in tasks">
                 <td>1</td><td>2</td>
                 <td>3</td><td>4</td>
-                <td>5</td><td>6</td>
+                <td>5</td><td>6</td><td></td>
                 <td>7</td><td><button class="btn btn-sm btn-danger btn-group">删除</button><button class="btn btn-sm btn-success btn-group">测试</button></td>
+            </tr>
+            <tr ng-show="flag">
+                <td><input type="text" ng-model="t_task_name"/></td>
+                <td><input type="text" ng-model="t_task_rule"/></td>
+                <td><input type="text" ng-model="t_task_raddress"/></td>
+                <td><input type="text" ng-model="t_task_params"/></td>
+                <td><input type="text" ng-model="t_task_model"/></td>
+                <td><input type="text" ng-model="t_task_detail"/></td>
+                <td><input type="text" ng-model="t_task_is_use"/></td>
+                <td><button class="btn btn-sm btn-success btn-group">保存</button></td>
             </tr>
         </tbody>
     </table>
